@@ -2,7 +2,7 @@ id: sensitive-data-detection
 
 info:
   name: Detect Sensitive Data in JavaScript Files
-  author: Just An NPC A.K.A N30NYM0US A.K.A Hans
+  author: Just An NPC A.K.A N30NYM0US A.K.A Hann
   severity: high
   description: This template is designed to detect sensitive data like access keys, tokens, and passwords in JavaScript files.
   tags: sensitive, javascript, security, exposure, exposures
