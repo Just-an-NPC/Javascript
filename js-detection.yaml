@@ -649,7 +649,6 @@ requests:
         name: "AWS Secret Key (Alt)"
         regex:
           - "awssecretkey[^\\s]*"
-         
 
 reporting:
   script: |
