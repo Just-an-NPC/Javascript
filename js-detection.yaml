@@ -1,4 +1,4 @@
-id: sensitive-data-detection
+id: javascript-detection
 
 info:
   name: Detect Sensitive Data in JavaScript Files
